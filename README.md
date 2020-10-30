@@ -3,7 +3,7 @@
 <!--
 **AIMU-OFFICIALS/AIMU-OFFICIALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![counter](https://enuyd1d4010nvkd.m.pipedream.net)
+![counter](https:///enldcxmbtjztebh.m.pipedream.net)
 
 ### Hi there 👋
 
