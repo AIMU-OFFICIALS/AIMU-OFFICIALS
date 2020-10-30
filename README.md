@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 <!-- ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-![AIMU's github stats](https://github-readme-stats.vercel.app/api?username=Atul1409&show_icons=true&theme=radical)
+![AIMU's github stats](https://github-readme-stats.vercel.app/api?username=AIMU-OFFICIALS&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIMU-OFFICIALS)](https://github.com/AIMU-OFFICIALS/github-readme-stats)
 
