@@ -15,6 +15,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on REACT JS
-- 🌱 I’m currently learning MERN 
+- 🔭 We are a coding team
+- 🌱 We are focusing to make this world a better place
 
